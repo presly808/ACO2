@@ -1,0 +1,45 @@
+1. Theoretical material
+    Java Primitive type, arrays, String
+    Difference between Primitive and Reference
+    What is Class, Object.
+    Structure of class(fields and methods)
+    OOP advantages
+    Java Debug in IDEA
+    see Scanner for input data from console
+
+2. To finish all task which were started in classroom
+    Write comments to each code line and draw pictures. It helps to understand
+
+3. Implement
+    class Parking
+        methods
+        - addMotoOnLastFreePlace
+        - takeLastMoto
+        - addMotoByPlaceNumber
+        - takeMotoByPlaceNumber
+        - clearGaragePlaces
+        - open
+        - close
+        - changeAddress
+        - showAllInGarage
+
+    class Biker
+        methods
+        - buyMotorcycle
+        - sellMotorcycle
+        - fixMotorcycle
+
+    See classroom java classes
+
+    Don't forget about validation while adding and taking
+
+    Extend class logic if you need
+
+4. Books
+    Reference books:
+        Шилдт Г. "Java. Полное руководство" - http://padabum.com/d.php?id=17386
+        Кей Хорстманн, Гари Корнелл - Java 2. Том 1 - http://www.ex.ua/8600905
+    Book for understanding (must read):
+        Кэти Сьерра, Берт Бейтс. "Head First Java / Изучаем Java"  http://rutracker.org/forum/viewtopic.php?t=4212262
+
+    Or find any resource that will be effective for you
