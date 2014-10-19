@@ -11,6 +11,14 @@ public class Parking {
         parkingMan++;
     }
 
+    public void addMotoByPlaceNum(Motorcycle moto, int place){
+
+    }
+
+    public Motorcycle takeFromByPlaceNum(int num){
+        return null;
+    }
+
     //TODO add validation of arr ranges
     public Motorcycle takeLastMoto(){
         parkingMan--;
