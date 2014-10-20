@@ -1,0 +1,19 @@
+1. Theoretical material
+    Encapsulation(Access modifiers), Constructors, Overloading methods, constructors
+    Selection Sort, Static(field, method), final word in java, String (methods)
+
+2. Implement class MyString
+    using structure in ua.artcode.week2.home.MyString
+    First try understand String
+    http://docs.oracle.com/javase/7/docs/api/java/lang/String.html
+
+    Additional task
+    * write methods for compare two string result will be
+        (-1 = first less then second,
+          1 = firs greater than second, 0 = first eq to second)
+
+3. If you will finish to weekend, just ask me about additional tasks
+
+4. Next topics are Inheritance, overriding...
+
+Good week)
