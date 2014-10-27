@@ -19,6 +19,8 @@ public class SelectionSort {
         }
     }
 
+
+
     public static void swap(int[] mas, int aI, int bI){
         int temp = mas[aI];
         mas[aI] = mas[bI];

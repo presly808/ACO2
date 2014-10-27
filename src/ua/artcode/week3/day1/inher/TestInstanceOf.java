@@ -21,7 +21,7 @@ public class TestInstanceOf {
             System.out.println(d1.getLevel());
         }
 
-        byte r = ~7;// 00000111 - 11111000
+        byte r = 0;// 00000111 - 11111000
         System.out.println(Integer.toBinaryString(r));
     }
 
