@@ -1,0 +1,21 @@
+1. Topics
+    ArrayList, Wrappers(Integer, Double...),
+    Date, SimpleDateFormat
+    equals, clone
+    Abstract class
+    Merge two sorted arrays
+    Binary Search
+    Stack
+    Queue
+
+2. Implement all methods of java.util.Queue interface
+    see methods of Collection and Queue interfaces
+    Your queue must be dynamic(if you need, resize you storage array)
+
+3*.logic tasks
+метод String sumString (String a, String b).
+    Должен просуммировать 2 стринга. Типа String a = "110"; String b = "20",
+    должен вернуть стринг "130"
+
+написать метод, выводящий число макимальной длины последовательно увеличивающихся чисел,
+ т.е. из массива { 6, 5, 3, 1,2,3,4,5, 10, 21} должен показать 1,2,3,4,5
