@@ -4,9 +4,6 @@ import java.util.Collection;
 import java.util.Iterator;
 import java.util.Queue;
 
-/**
- * Created by admin on 03.11.2014.
- */
 public abstract class MyQueue implements Queue {
 
     @Override
