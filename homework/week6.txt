@@ -1,0 +1,40 @@
+1. Exceptions
+   MergeSort, Complexity of Algorithm(see big O notation)
+   Streams(InputStream, OutputStream, Reader, Writer)
+   Serialization
+   try-with-resources
+
+   class File - below tasks based on this class
+
+2. Implement file system search - recursively
+   public String[] findAll(String keyWord, String rootPath)
+
+   return all found file paths
+
+3. Add possibility to save all data when you exit from TrainApplication
+        and load when start app
+   3.1. Use Serialization
+   3.2. Use PrintWriter for writing data into file (In this case user can open file and understand all info)
+        And Scanner for reading from file
+
+   public void save(String path, Collection c)
+   public Collection load(String path)
+
+4. Implement own Command Line (for this task you need File) - for example see cmd.exe
+   syntax of command "action argument1 argument2 argument3"
+
+   cd - change current directory
+   pwd - see full path of current directory
+   dir - show all folders and files in current directory
+   find - find by key value in directory or *(in files)
+   open - see content of file
+   mkdir - create a directory
+   mkfile - create a file
+
+   See how to call cmd commands from java
+   * process - show all system process
+   * kill - kill some process
+   * Call system commands with next syntax
+    "!command arg1 arg2 arg3"
+
+
