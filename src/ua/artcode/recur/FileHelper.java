@@ -6,9 +6,6 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
-/**
- * Created by admin on 20.11.2014.
- */
 public class FileHelper {
 
     public static List<String> findRecUp(File root, String key){
