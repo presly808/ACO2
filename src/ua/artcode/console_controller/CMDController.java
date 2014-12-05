@@ -37,7 +37,7 @@ public class CMDController {
         Process p = null;
         try {
 
-            p = Runtime.getRuntime().exec("cmd /c cd /d "+ getCurrentLocation() + " & "+ command);
+            p = Runtime.getRuntime().exec("cmd /c "+ getCurrentLocation() + " && "+ command);
 
 
             //p.waitFor();
